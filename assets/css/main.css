@@ -2233,6 +2233,8 @@
 
 			.image.main img {
 				width: 100%;
+				max-height: 500px;
+				object-fit: contain;
 			}
 
 			@media screen and (max-width: 736px) {
