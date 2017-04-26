@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Список постов
+landing-title: 'Список постов'
 description: null
 image: null
 author: null
