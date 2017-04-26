@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Всё к этому шло."
 description: ""
 date: "2014-04-01 02:36:53 +0300"

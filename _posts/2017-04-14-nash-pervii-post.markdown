@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Наш первый пост!"
 date: "2017-04-14 01:22:59 +0300"
 image: assets/images/DSC_1455_v1.JPG

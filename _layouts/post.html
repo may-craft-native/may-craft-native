@@ -10,9 +10,9 @@
 
 <body>
 
-    {% include header.html %} 
-    
-    
+    {% include header.html %}
+
+
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -26,8 +26,11 @@
 		<p>{{ content }}</p>
 	</div>
 </section>
-
 </div>
+
+{% if page.comments %}
+    {% include comments.html %}
+{% endif %}
 
     {% include footer.html %}
 

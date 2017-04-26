@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Первая встреча"
 description: "Италия. Ночь. Метро."
 date: "2014-04-21 02:19:38 +0300"
