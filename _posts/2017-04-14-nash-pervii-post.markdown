@@ -14,6 +14,6 @@ image: assets/images/DSC_1455_v1.JPG
 * **#свадебноепутешествие** - отчеты о нашей свадебной поездке через всю Россию!
 
 
-<iframe src="/dancing_man.html" width="100%" height="600px">
+<iframe src="/dancing_man.html" width="100%" height="600px" allowfullscreen="allowfullscreen">
    Ваш браузер не поддерживает плавающие фреймы!
 </iframe>
