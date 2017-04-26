@@ -1,16 +1,16 @@
 # Site settings
 title: May.Craft.Native.
-subtitle:
+subtitle: Cвадебный блог.
 email: migs1488@gmail.com
 description: Наш свадебный блог.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Миша и Надя
-street_address: Не не не
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+street_address:
+city: Moscow
+state:
+zip_code:
+country: Russia
 phone: +7 (915) 490-98-41
 
 # Homepage tiles
@@ -20,14 +20,14 @@ tiles-count: 15
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/migs911
+gitlab_url:
+googleplus_url: https://plus.google.com/+MishaGoncharov
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/misha-goncharov-35285987/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # Build settings
 markdown: kramdown
