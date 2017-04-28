@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: На главную
 landing-title: 'Миша и Надя.'
 description: null
 image: null
