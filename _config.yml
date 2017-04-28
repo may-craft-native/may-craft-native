@@ -28,6 +28,7 @@ linkedin_url: https://www.linkedin.com/in/misha-goncharov-35285987/
 pinterest_url:
 slack_url:
 twitter_url:
+site.vk_url: https://vk.com/id286624
 
 # Build settings
 markdown: kramdown
