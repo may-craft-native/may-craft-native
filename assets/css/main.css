@@ -3387,7 +3387,7 @@
 			font-size: 3.25em;
 		}
 
-		#banner > .inner {
+		#banner > .inner, #main > .tiles  {
 			-moz-transition: opacity 1.5s ease, -moz-transform 0.5s ease-out, -moz-filter 0.5s ease, -webkit-filter 0.5s ease;
 			-webkit-transition: opacity 1.5s ease, -webkit-transform 0.5s ease-out, -webkit-filter 0.5s ease, -webkit-filter 0.5s ease;
 			-ms-transition: opacity 1.5s ease, -ms-transform 0.5s ease-out, -ms-filter 0.5s ease, -webkit-filter 0.5s ease;
@@ -3475,11 +3475,11 @@
 			background-color: #87c5a4;
 		}
 
-		body.is-loading #banner:after {
+		body.is-loading #banner:after{
 			opacity: 1.0;
 		}
 
-		body.is-loading #banner > .inner {
+		body.is-loading #banner > .inner, body.is-loading #main > .tiles{
 			-moz-filter: blur(0.125em);
 			-webkit-filter: blur(0.125em);
 			-ms-filter: blur(0.125em);
