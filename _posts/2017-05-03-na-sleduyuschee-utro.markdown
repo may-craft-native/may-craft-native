@@ -5,7 +5,7 @@ date: "2017-05-03 01:07:48 +0300"
 description: "Кофе и сицилийские трубочки."
 author: Миша
 comments: true
-image: assets/images/DSC_0166.JPG
+image: assets/images/DSC_0166_v1.JPG
 tags: истории
 ---
 
