@@ -37,7 +37,7 @@ comments: true
 Учитывайте, что это природа (поэтому никаких каблуков), будут активки (воллейбол,
   бадминтон и т.д.).
 
-## Как добраться: {#howtogetthere}
+## Как добраться:{#howtogetthere}
 
 <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&load=Geolink"
  type="text/javascript"></script>
