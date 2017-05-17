@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "День X: План"
-date: "2017-05-17 01:07:48 +0300"
+date: "2017-05-17 08:07:48 +0300"
 description: "Расписание дня"
 author: Миша
 comments: true
