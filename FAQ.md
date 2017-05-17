@@ -58,3 +58,10 @@ comments: true
 Это Савёловское направление, станция Катуар. От станции минут 25 пешком, но мы надеемся организовать трансфер до коттеджа.
 
 <iframe src="https://api-maps.yandex.ru/frame/v1/-/C6ewZLj4" width="560" height="450" frameborder="0"></iframe>
+
+
+## Что дарить?
+
+Мани, мани, мани.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TifFTCaE5BU" frameborder="0" allowfullscreen></iframe>
