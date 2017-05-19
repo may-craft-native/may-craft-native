@@ -63,6 +63,10 @@ comments: true
 *   *Соловей-разбойник*
 *   *Мировая мама*
 
+Стоянка - последний вагон из Москвы. Координаты стоянки:
+
+56.089999, 37.504527
+
 <iframe src="https://api-maps.yandex.ru/frame/v1/-/C6ewZLj4" width="560" height="450" frameborder="0"></iframe>
 
 
